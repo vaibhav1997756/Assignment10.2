@@ -1,0 +1,165 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Top-head-left {
+    width: 201px;
+    height: 80px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.Top-head-center {
+    width: 201px;
+    height: 61px;
+    text-align: center;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.Top-head-right {
+    width: 201px;
+    height: 81px;
+    text-align: center;
+    padding: 5px;
+}
+
+h5 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.hr {
+    width: 26%;
+}
+
+.h22 {
+    text-align: center;
+}
+
+.Top-head-center>h2 {
+    margin: 0px;
+    font-size: 60px;
+}
+
+.flex-container2 {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-element-left {
+    width: 950px
+}
+
+.flex-element-right {
+    width: 250px;
+}
+
+.flex-element-right>h2 {
+    text-align: center;
+}
+
+.flex-element-right>hr {
+    width: 122px;
+}
+
+.flex-container-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.flex-container-right>div>p {
+    font-size: 20px;
+}
+
+.flex-element-left>img {
+    width: 900px;
+    background-size: cover;
+    margin: 0px;
+}
+
+.flex-container-left {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.flex-container-right>div>img {
+    width: 100px;
+}
+
+.flex-element-left1 {
+    width: 200px;
+}
+
+.flex-element-left-right1 {
+    width: 700px;
+}
+
+.flex-element-left1 {
+    border-right: 1px solid black;
+}
+
+.flex-element-left-right1>h2 {
+    text-align: center;
+}
+
+.flex-container5 {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-element5 {
+    width: 200px;
+}
+
+.flex-element6 {
+    width: 200px;
+}
+
+.flex-element7 {
+    width: 200px;
+}
+
+.h5 {
+    width: 50%;
+}
+
+.flex-container-right-bottom {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-element-right-bottom {
+    width: 100px;
+}
+
+.flex-element-right1-bottom {
+    width: 100px;
+}
+
+.flex-container-left-bottom {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-element-left-bottom {
+    width: 2000px;
+}
+
+.flex-element-left-bottom1 {
+    width: 2000px;
+}
+
+.flex-element-left-bottom2 {
+    width: 2000px;
+}
